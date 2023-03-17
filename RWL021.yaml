@@ -15,10 +15,8 @@ blueprint:
       name: Philips Hue Dimmer Switch (RWL021)
       description: Philips Hue Dimmer Switch to use
       selector:
-        device: 
-          integration: Philips Hue
-          manufacturer: Philips
-          model: RWL021
+        device:
+          model: Hue dimmer switch
     light_target:
       name: Light
       description: Light or lights to control with the remote control
