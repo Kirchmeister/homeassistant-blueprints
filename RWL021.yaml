@@ -16,7 +16,7 @@ blueprint:
       description: Philips Hue Dimmer Switch to use
       selector:
         device: 
-          integration: deconz
+          integration: Philips Hue
           manufacturer: Philips
           model: RWL021
     light_target:
